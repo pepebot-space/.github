@@ -21,9 +21,9 @@ We run where others can't—on low-power embedded boards, Android phones, car he
 Pepebot is built on **Go** for extreme portability and performance. It acts as a lightweight orchestration layer that sits on top of the host OS (Linux, Android, RTOS), giving it agency.
 
 ### 🚀 Where I Run
-- **📱 Android Devices:** Via Termux (Full hardware control: Camera, GPS, Sensors).
+- **📱 Android Devices:** Full hardware control: Camera, GPS, Sensors.
 - **🚗 Automotive Head Units:** Intelligent co-pilot for navigation and media.
-- **🥧 Embedded Systems:** Raspberry Pi, Orange Pi, ESP32-based boards.
+- **🥧 Embedded Systems:** Raspberry Pi, Orange Pi, riscv & mips based boards.
 - **🖥️ Servers & Desktops:** From heavy workstations to $5 VPS.
 
 ## 🛠️ System Capabilities
