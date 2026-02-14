@@ -2,7 +2,6 @@
 
 <div align="center">
 <img src="../assets/logo.webp" alt="Pepebot" width="256">
-<h1>🐸 Pepebot</h1>
 </div>
 
 > **The Ubiquitous AI Layer for Every Device.**
